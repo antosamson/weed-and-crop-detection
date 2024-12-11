@@ -37,7 +37,7 @@ Bounding boxes and labels for detected objects are displayed on the uploaded ima
 Real-time detection with bounding boxes and labels displayed on the video feed.
 
 ### Video Input
-Frames from the video are processed every 10 seconds, and the detected objects are displayed along with their class names.
+Frames from the video are processed every 5 seconds, and the detected objects are displayed along with their class names.
 
 ## Dependencies
 - Python 3.8+
@@ -46,9 +46,4 @@ Frames from the video are processed every 10 seconds, and the detected objects a
 - OpenCV
 - Pillow
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
